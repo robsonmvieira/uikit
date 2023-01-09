@@ -4,7 +4,7 @@
     "packages/*"
   ],
   "scripts": {
-    "build": "turbo run build",
+    "build": "turbo run prod",
     "dev": "turbo run dev --parallel"
   },
   "license": "ISC",
