@@ -61,5 +61,15 @@ export const colors = {
   blue700: '#1D4ED8',
   blue800: '#1E40AF',
   blue900: '#1E3A8A',
+  sky50: '#F0F9FF',
+  sky100: '#E0F2FE',
+  sky200: '#BAE6FD',
+  sky300: '#7DD3FC',
+  sky400: '#38BDF8',
+  sky500: '#0EA5E9',
+  sky600: '#0284C7',
+  sky700: '#0369A1',
+  sky800: '#075985',
+  sky900: '#0C4A6E',
 }
 
