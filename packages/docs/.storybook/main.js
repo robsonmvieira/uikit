@@ -19,7 +19,6 @@ module.exports = {
     if (configType === 'PRODUCTION') {
       config.base = '/uikit/'
     }
-
     return config
 
     }
