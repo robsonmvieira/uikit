@@ -1,0 +1,4 @@
+{
+  "extends": "@rmuikit/tsconfig/base.json",
+  "include": ["src/**/*"]
+}
